@@ -1,0 +1,87 @@
+h3 {
+  text-decoration: underline;
+}
+.first{
+  background-image: url("");
+}
+
+body{
+  background-color: rgb(162, 187, 237);
+  text-align: justify;
+}
+
+h3{
+  color: rgb(161,163,166);
+  font-family: Josefin Slab;
+  font-size: 21px
+}
+
+p{
+  color: rgb(182,186,193);
+  font-family: Lato, sans-serif;
+  font-size: 17px
+  line-height: 2;
+  margin: 5px
+}
+
+h1{
+  font-size: 25px;
+  color: rgb(36,78,162);
+  font-family: Josefin Slab;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  color: rgb(161,163,166);
+  font-family: Josefin Slab;
+  font-size: 21px
+}
+
+h4{ color: rgb(161,163,166);
+  font-family: Josefin Slab;
+  font-size: 21px
+}
+
+li{
+  color: rgb(211, 213, 216);
+  font-family: Lato, sans-serif;
+  font-size: 17px;
+}
+
+a:hover{
+  background-color: rgb(247, 246, 252);
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.card {
+  margin-bottom: 27px;
+  background-color: rgb(244,245,248);
+  box-shadow: 1px 1px 2px grey;
+  border-radius: 10px;
+  padding: 15px;
+}
+
+img{
+  border-radius: 10px;
+  }
+.align-img{
+  text-align: center;
+}
+#profile{
+  border-radius: 15%
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+h5{color: rgb(161,163,166);
+  font-family: Josefin Slab;
+  font-size: 21px;
+  text-align: center;
+}
